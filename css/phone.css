@@ -1,0 +1,127 @@
+/* navigation */
+#navbar ul li a {
+    padding: 10px 5px;
+}
+
+
+/* home section */
+#home .h-primary {
+    font-size: 25px;
+}
+
+#home::before {
+    height: 70%;
+}
+
+#home button {
+    padding: 12px 60px;
+}
+
+/* demo section */
+#demo .h-primary {
+    left: -8px;
+    top: 637px;
+}
+
+#services {
+    height: 200px;
+    flex-direction: column;
+    margin: 200px;
+}
+
+#services .box {
+    margin: -75px;
+}
+
+#services .box img {
+    height: 90px;
+    margin-top: 0px;
+}
+
+#services .text-center {
+    margin-bottom: 160px;
+}
+
+/* shopping section */
+#shopping .box img {
+    height: 85px;
+    margin-top: -20px;
+}
+
+#shopping .center h3 {
+    font-size: 15px;
+    position: absolute;
+    left: 26px;
+    top: 1385px;
+}
+
+#shopping .center h1 {
+    font-size: 18px;
+    position: absolute;
+    left: 24px;
+    top: 1423px;
+}
+#shopping .center p{
+    font-size: 12px;
+    position: absolute;
+    left: 24px;
+    top: 1453px;
+}
+#shopping button{
+    padding: 0px 0px;
+    position: absolute;
+    left: 35px;
+    top: 1510px;
+}
+#shopping .pg img{
+    height: 182px;
+    right: 5px;
+    top: 1550px;
+}
+
+/* about-us section */
+#about{
+    margin: 0px;
+
+}
+#about .box{
+    margin: 1px;
+    width: 113px;
+}
+#about .box img{
+    height: 40px;
+    margin: 4px;
+    width: 100px;
+}
+#about h1{
+    font-size: 20px;
+}
+#about h3{
+    font-size: 15px;
+}
+
+
+
+/* contact us section */
+#contact-us .box img{
+    width: 170px;
+    height: 180px;
+    margin-left: -26px;
+}
+#contact-us .center::before{
+    height: 22%;
+    left: 16px;
+    width: 92%;
+}
+#contact-us .center h1{
+    padding-top: 0px;
+    font-size: 12px;
+}
+#contact-us .center h3{
+    margin-left: 0%;
+    font-size: 12px;
+}
+#contact-us .text-center{
+    font-size: 10px;
+}
+/* foooter section */
